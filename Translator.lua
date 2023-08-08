@@ -280,3 +280,4 @@ function translateTo(message, target)
 
     return translation.text
 end
+return translateFrom
